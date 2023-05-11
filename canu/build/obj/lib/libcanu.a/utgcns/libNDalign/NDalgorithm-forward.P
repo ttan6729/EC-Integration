@@ -1,4 +1,4 @@
-/mnt/data6t/EC/result/canu/build/obj/lib/libcanu.a/utgcns/libNDalign/NDalgorithm-forward.o: \
+/mnt/data6t/EC/EC-Integration/canu/build/obj/lib/libcanu.a/utgcns/libNDalign/NDalgorithm-forward.o: \
  utgcns/libNDalign/NDalgorithm-forward.C /usr/include/stdc-predef.h \
  utgcns/libNDalign/NDalgorithm.H utility/src/utility/types.H \
  /usr/include/stdio.h \

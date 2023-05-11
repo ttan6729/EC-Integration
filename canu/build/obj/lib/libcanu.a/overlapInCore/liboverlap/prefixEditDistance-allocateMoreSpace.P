@@ -1,4 +1,4 @@
-/mnt/data6t/EC/result/canu/build/obj/lib/libcanu.a/overlapInCore/liboverlap/prefixEditDistance-allocateMoreSpace.o: \
+/mnt/data6t/EC/EC-Integration/canu/build/obj/lib/libcanu.a/overlapInCore/liboverlap/prefixEditDistance-allocateMoreSpace.o: \
  overlapInCore/liboverlap/prefixEditDistance-allocateMoreSpace.C \
  /usr/include/stdc-predef.h overlapInCore/liboverlap/prefixEditDistance.H \
  utility/src/utility/types.H /usr/include/stdio.h \

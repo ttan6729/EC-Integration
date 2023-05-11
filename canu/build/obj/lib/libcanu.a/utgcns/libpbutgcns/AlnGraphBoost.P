@@ -1,4 +1,4 @@
-/mnt/data6t/EC/result/canu/build/obj/lib/libcanu.a/utgcns/libpbutgcns/AlnGraphBoost.o: \
+/mnt/data6t/EC/EC-Integration/canu/build/obj/lib/libcanu.a/utgcns/libpbutgcns/AlnGraphBoost.o: \
  utgcns/libpbutgcns/AlnGraphBoost.C /usr/include/stdc-predef.h \
  /usr/include/c++/9/cassert \
  /usr/include/x86_64-linux-gnu/c++/9/bits/c++config.h \

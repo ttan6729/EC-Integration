@@ -1,4 +1,4 @@
-/mnt/data6t/EC/result/canu/build/obj/lib/libcanu.a/utility/src/utility/libbacktrace/unknown.o: \
+/mnt/data6t/EC/EC-Integration/canu/build/obj/lib/libcanu.a/utility/src/utility/libbacktrace/unknown.o: \
  utility/src/utility/libbacktrace/unknown.c /usr/include/stdc-predef.h \
  utility/src/utility/libbacktrace/config.h
  utility/src/utility/libbacktrace/unknown.c /usr/include/stdc-predef.h :

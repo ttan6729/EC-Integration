@@ -1,5 +1,5 @@
-/mnt/data6t/EC/result/canu/build/obj/lib/libcanu.a/gfa/bed.o: gfa/bed.C \
- /usr/include/stdc-predef.h utility/src/utility/runtime.H \
+/mnt/data6t/EC/EC-Integration/canu/build/obj/lib/libcanu.a/gfa/bed.o: \
+ gfa/bed.C /usr/include/stdc-predef.h utility/src/utility/runtime.H \
  utility/src/utility/types.H /usr/include/stdio.h \
  /usr/include/x86_64-linux-gnu/bits/libc-header-start.h \
  /usr/include/features.h /usr/include/x86_64-linux-gnu/sys/cdefs.h \
@@ -152,8 +152,7 @@
  utility/src/utility/files-buffered-implementation.H \
  utility/src/utility/files-memoryMapped.H gfa/bed.H \
  utility/src/utility/strings.H
-gfa/bed.C :
- /usr/include/stdc-predef.h utility/src/utility/runtime.H :
+ gfa/bed.C /usr/include/stdc-predef.h utility/src/utility/runtime.H :
  utility/src/utility/types.H /usr/include/stdio.h :
  /usr/include/x86_64-linux-gnu/bits/libc-header-start.h :
  /usr/include/features.h /usr/include/x86_64-linux-gnu/sys/cdefs.h :

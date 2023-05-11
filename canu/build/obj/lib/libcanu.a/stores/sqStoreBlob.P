@@ -1,4 +1,4 @@
-/mnt/data6t/EC/result/canu/build/obj/lib/libcanu.a/stores/sqStoreBlob.o: \
+/mnt/data6t/EC/EC-Integration/canu/build/obj/lib/libcanu.a/stores/sqStoreBlob.o: \
  stores/sqStoreBlob.C /usr/include/stdc-predef.h stores/sqStore.H \
  utility/src/utility/runtime.H utility/src/utility/types.H \
  /usr/include/stdio.h \

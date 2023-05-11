@@ -1,4 +1,4 @@
-/mnt/data6t/EC/result/canu/build/obj/lib/libcanu.a/utility/src/parasail/cpuid.o: \
+/mnt/data6t/EC/EC-Integration/canu/build/obj/lib/libcanu.a/utility/src/parasail/cpuid.o: \
  utility/src/parasail/cpuid.c /usr/include/stdc-predef.h \
  utility/src/parasail/config.h utility/src/parasail/cpuid.h \
  utility/src/parasail/parasail.h /usr/include/stdio.h \

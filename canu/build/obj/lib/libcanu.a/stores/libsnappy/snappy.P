@@ -1,4 +1,4 @@
-/mnt/data6t/EC/result/canu/build/obj/lib/libcanu.a/stores/libsnappy/snappy.o: \
+/mnt/data6t/EC/EC-Integration/canu/build/obj/lib/libcanu.a/stores/libsnappy/snappy.o: \
  stores/libsnappy/snappy.cc /usr/include/stdc-predef.h \
  stores/libsnappy/snappy.h \
  /usr/lib/gcc/x86_64-linux-gnu/9/include/stddef.h \

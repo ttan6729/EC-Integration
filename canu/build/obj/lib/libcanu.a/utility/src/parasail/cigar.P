@@ -1,4 +1,4 @@
-/mnt/data6t/EC/result/canu/build/obj/lib/libcanu.a/utility/src/parasail/cigar.o: \
+/mnt/data6t/EC/EC-Integration/canu/build/obj/lib/libcanu.a/utility/src/parasail/cigar.o: \
  utility/src/parasail/cigar.c /usr/include/stdc-predef.h \
  utility/src/parasail/config.h /usr/include/assert.h \
  /usr/include/features.h /usr/include/x86_64-linux-gnu/sys/cdefs.h \

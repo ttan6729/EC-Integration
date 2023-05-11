@@ -1,4 +1,4 @@
-/mnt/data6t/EC/result/canu/build/obj/bin/overlapInCorePartition/overlapInCore/overlapInCorePartition.o: \
+/mnt/data6t/EC/EC-Integration/canu/build/obj/bin/overlapInCorePartition/overlapInCore/overlapInCorePartition.o: \
  overlapInCore/overlapInCorePartition.C /usr/include/stdc-predef.h \
  utility/src/utility/runtime.H utility/src/utility/types.H \
  /usr/include/stdio.h \

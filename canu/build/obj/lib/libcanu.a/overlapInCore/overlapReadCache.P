@@ -1,4 +1,4 @@
-/mnt/data6t/EC/result/canu/build/obj/lib/libcanu.a/overlapInCore/overlapReadCache.o: \
+/mnt/data6t/EC/EC-Integration/canu/build/obj/lib/libcanu.a/overlapInCore/overlapReadCache.o: \
  overlapInCore/overlapReadCache.C /usr/include/stdc-predef.h \
  overlapInCore/overlapReadCache.H utility/src/utility/runtime.H \
  utility/src/utility/types.H /usr/include/stdio.h \

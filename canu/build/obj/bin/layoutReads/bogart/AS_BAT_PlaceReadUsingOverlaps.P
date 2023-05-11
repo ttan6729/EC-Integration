@@ -1,4 +1,4 @@
-/mnt/data6t/EC/result/canu/build/obj/bin/layoutReads/bogart/AS_BAT_PlaceReadUsingOverlaps.o: \
+/mnt/data6t/EC/EC-Integration/canu/build/obj/bin/layoutReads/bogart/AS_BAT_PlaceReadUsingOverlaps.o: \
  bogart/AS_BAT_PlaceReadUsingOverlaps.C /usr/include/stdc-predef.h \
  bogart/AS_BAT_ReadInfo.H utility/src/utility/runtime.H \
  utility/src/utility/types.H /usr/include/stdio.h \

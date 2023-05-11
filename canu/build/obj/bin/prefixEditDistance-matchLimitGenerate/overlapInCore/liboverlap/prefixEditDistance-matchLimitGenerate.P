@@ -1,4 +1,4 @@
-/mnt/data6t/EC/result/canu/build/obj/bin/prefixEditDistance-matchLimitGenerate/overlapInCore/liboverlap/prefixEditDistance-matchLimitGenerate.o: \
+/mnt/data6t/EC/EC-Integration/canu/build/obj/bin/prefixEditDistance-matchLimitGenerate/overlapInCore/liboverlap/prefixEditDistance-matchLimitGenerate.o: \
  overlapInCore/liboverlap/prefixEditDistance-matchLimitGenerate.C \
  /usr/include/stdc-predef.h utility/src/utility/types.H \
  /usr/include/stdio.h \

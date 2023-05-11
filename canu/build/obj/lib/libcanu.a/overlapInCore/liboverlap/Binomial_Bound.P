@@ -1,4 +1,4 @@
-/mnt/data6t/EC/result/canu/build/obj/lib/libcanu.a/overlapInCore/liboverlap/Binomial_Bound.o: \
+/mnt/data6t/EC/EC-Integration/canu/build/obj/lib/libcanu.a/overlapInCore/liboverlap/Binomial_Bound.o: \
  overlapInCore/liboverlap/Binomial_Bound.C /usr/include/stdc-predef.h \
  overlapInCore/liboverlap/Binomial_Bound.H utility/src/utility/types.H \
  /usr/include/stdio.h \

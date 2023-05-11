@@ -1,4 +1,4 @@
-/mnt/data6t/EC/result/canu/build/obj/bin/bogart/bogart/AS_BAT_Instrumentation.o: \
+/mnt/data6t/EC/EC-Integration/canu/build/obj/bin/bogart/bogart/AS_BAT_Instrumentation.o: \
  bogart/AS_BAT_Instrumentation.C /usr/include/stdc-predef.h \
  bogart/AS_BAT_ReadInfo.H utility/src/utility/runtime.H \
  utility/src/utility/types.H /usr/include/stdio.h \

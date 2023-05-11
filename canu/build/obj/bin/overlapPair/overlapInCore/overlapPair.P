@@ -1,4 +1,4 @@
-/mnt/data6t/EC/result/canu/build/obj/bin/overlapPair/overlapInCore/overlapPair.o: \
+/mnt/data6t/EC/EC-Integration/canu/build/obj/bin/overlapPair/overlapInCore/overlapPair.o: \
  overlapInCore/overlapPair.C /usr/include/stdc-predef.h \
  utility/src/utility/runtime.H utility/src/utility/types.H \
  /usr/include/stdio.h \

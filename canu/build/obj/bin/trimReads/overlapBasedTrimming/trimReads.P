@@ -1,4 +1,4 @@
-/mnt/data6t/EC/result/canu/build/obj/bin/trimReads/overlapBasedTrimming/trimReads.o: \
+/mnt/data6t/EC/EC-Integration/canu/build/obj/bin/trimReads/overlapBasedTrimming/trimReads.o: \
  overlapBasedTrimming/trimReads.C /usr/include/stdc-predef.h \
  overlapBasedTrimming/trimReads.H utility/src/utility/runtime.H \
  utility/src/utility/types.H /usr/include/stdio.h \

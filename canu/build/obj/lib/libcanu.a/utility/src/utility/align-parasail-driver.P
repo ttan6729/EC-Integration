@@ -1,4 +1,4 @@
-/mnt/data6t/EC/result/canu/build/obj/lib/libcanu.a/utility/src/utility/align-parasail-driver.o: \
+/mnt/data6t/EC/EC-Integration/canu/build/obj/lib/libcanu.a/utility/src/utility/align-parasail-driver.o: \
  utility/src/utility/align-parasail-driver.C /usr/include/stdc-predef.h \
  utility/src/utility/align-parasail-driver.H utility/src/utility/system.H \
  utility/src/utility/types.H /usr/include/stdio.h \

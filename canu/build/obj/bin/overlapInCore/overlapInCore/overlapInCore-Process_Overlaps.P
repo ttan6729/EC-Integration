@@ -1,4 +1,4 @@
-/mnt/data6t/EC/result/canu/build/obj/bin/overlapInCore/overlapInCore/overlapInCore-Process_Overlaps.o: \
+/mnt/data6t/EC/EC-Integration/canu/build/obj/bin/overlapInCore/overlapInCore/overlapInCore-Process_Overlaps.o: \
  overlapInCore/overlapInCore-Process_Overlaps.C \
  /usr/include/stdc-predef.h overlapInCore/overlapInCore.H \
  utility/src/utility/runtime.H utility/src/utility/types.H \

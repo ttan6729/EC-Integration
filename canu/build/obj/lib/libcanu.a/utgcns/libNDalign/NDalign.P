@@ -1,4 +1,4 @@
-/mnt/data6t/EC/result/canu/build/obj/lib/libcanu.a/utgcns/libNDalign/NDalign.o: \
+/mnt/data6t/EC/EC-Integration/canu/build/obj/lib/libcanu.a/utgcns/libNDalign/NDalign.o: \
  utgcns/libNDalign/NDalign.C /usr/include/stdc-predef.h \
  utgcns/libNDalign/NDalign.H utility/src/utility/types.H \
  /usr/include/stdio.h \

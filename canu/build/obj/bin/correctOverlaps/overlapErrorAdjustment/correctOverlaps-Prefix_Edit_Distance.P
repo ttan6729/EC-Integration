@@ -1,4 +1,4 @@
-/mnt/data6t/EC/result/canu/build/obj/bin/correctOverlaps/overlapErrorAdjustment/correctOverlaps-Prefix_Edit_Distance.o: \
+/mnt/data6t/EC/EC-Integration/canu/build/obj/bin/correctOverlaps/overlapErrorAdjustment/correctOverlaps-Prefix_Edit_Distance.o: \
  overlapErrorAdjustment/correctOverlaps-Prefix_Edit_Distance.C \
  /usr/include/stdc-predef.h overlapErrorAdjustment/correctOverlaps.H \
  utility/src/utility/runtime.H utility/src/utility/types.H \

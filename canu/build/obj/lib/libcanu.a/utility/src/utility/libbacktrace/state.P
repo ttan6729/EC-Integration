@@ -1,4 +1,4 @@
-/mnt/data6t/EC/result/canu/build/obj/lib/libcanu.a/utility/src/utility/libbacktrace/state.o: \
+/mnt/data6t/EC/EC-Integration/canu/build/obj/lib/libcanu.a/utility/src/utility/libbacktrace/state.o: \
  utility/src/utility/libbacktrace/state.c /usr/include/stdc-predef.h \
  utility/src/utility/libbacktrace/config.h /usr/include/string.h \
  /usr/include/x86_64-linux-gnu/bits/libc-header-start.h \

@@ -1,4 +1,4 @@
-/mnt/data6t/EC/result/canu/build/obj/bin/overlapAlign/overlapAlign/clearRangeFile.o: \
+/mnt/data6t/EC/EC-Integration/canu/build/obj/bin/overlapAlign/overlapAlign/clearRangeFile.o: \
  overlapAlign/clearRangeFile.C /usr/include/stdc-predef.h \
  overlapAlign/clearRangeFile.H utility/src/utility/runtime.H \
  utility/src/utility/types.H /usr/include/stdio.h \

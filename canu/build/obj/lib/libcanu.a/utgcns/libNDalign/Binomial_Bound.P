@@ -1,4 +1,4 @@
-/mnt/data6t/EC/result/canu/build/obj/lib/libcanu.a/utgcns/libNDalign/Binomial_Bound.o: \
+/mnt/data6t/EC/EC-Integration/canu/build/obj/lib/libcanu.a/utgcns/libNDalign/Binomial_Bound.o: \
  utgcns/libNDalign/Binomial_Bound.C /usr/include/stdc-predef.h \
  utgcns/libNDalign/Binomial_Bound.H utility/src/utility/types.H \
  /usr/include/stdio.h \

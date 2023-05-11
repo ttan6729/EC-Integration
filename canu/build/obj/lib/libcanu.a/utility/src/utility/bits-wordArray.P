@@ -1,4 +1,4 @@
-/mnt/data6t/EC/result/canu/build/obj/lib/libcanu.a/utility/src/utility/bits-wordArray.o: \
+/mnt/data6t/EC/EC-Integration/canu/build/obj/lib/libcanu.a/utility/src/utility/bits-wordArray.o: \
  utility/src/utility/bits-wordArray.C /usr/include/stdc-predef.h \
  utility/src/utility/bits.H utility/src/utility/types.H \
  /usr/include/stdio.h \

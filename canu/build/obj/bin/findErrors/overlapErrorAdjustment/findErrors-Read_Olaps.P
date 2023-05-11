@@ -1,4 +1,4 @@
-/mnt/data6t/EC/result/canu/build/obj/bin/findErrors/overlapErrorAdjustment/findErrors-Read_Olaps.o: \
+/mnt/data6t/EC/EC-Integration/canu/build/obj/bin/findErrors/overlapErrorAdjustment/findErrors-Read_Olaps.o: \
  overlapErrorAdjustment/findErrors-Read_Olaps.C \
  /usr/include/stdc-predef.h overlapErrorAdjustment/findErrors.H \
  utility/src/utility/runtime.H utility/src/utility/types.H \

@@ -1,4 +1,4 @@
-/mnt/data6t/EC/result/canu/build/obj/bin/meryl/meryl/src/meryl/meryl.o: \
+/mnt/data6t/EC/EC-Integration/canu/build/obj/bin/meryl/meryl/src/meryl/meryl.o: \
  meryl/src/meryl/meryl.C /usr/include/stdc-predef.h \
  meryl/src/meryl/meryl.H utility/src/utility/runtime.H \
  utility/src/utility/types.H /usr/include/stdio.h \

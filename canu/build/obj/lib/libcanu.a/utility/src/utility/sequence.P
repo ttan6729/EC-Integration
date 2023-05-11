@@ -1,4 +1,4 @@
-/mnt/data6t/EC/result/canu/build/obj/lib/libcanu.a/utility/src/utility/sequence.o: \
+/mnt/data6t/EC/EC-Integration/canu/build/obj/lib/libcanu.a/utility/src/utility/sequence.o: \
  utility/src/utility/sequence.C /usr/include/stdc-predef.h \
  utility/src/utility/sequence.H utility/src/utility/types.H \
  /usr/include/stdio.h \

@@ -1,4 +1,4 @@
-/mnt/data6t/EC/result/canu/build/obj/bin/sqStoreDumpMetaData/seqrequester/src/seqrequester/summarize.o: \
+/mnt/data6t/EC/EC-Integration/canu/build/obj/bin/sqStoreDumpMetaData/seqrequester/src/seqrequester/summarize.o: \
  seqrequester/src/seqrequester/summarize.C /usr/include/stdc-predef.h \
  seqrequester/src/seqrequester/seqrequester.H \
  utility/src/utility/runtime.H utility/src/utility/types.H \

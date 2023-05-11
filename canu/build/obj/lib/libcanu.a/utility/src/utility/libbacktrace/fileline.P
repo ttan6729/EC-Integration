@@ -1,4 +1,4 @@
-/mnt/data6t/EC/result/canu/build/obj/lib/libcanu.a/utility/src/utility/libbacktrace/fileline.o: \
+/mnt/data6t/EC/EC-Integration/canu/build/obj/lib/libcanu.a/utility/src/utility/libbacktrace/fileline.o: \
  utility/src/utility/libbacktrace/fileline.c /usr/include/stdc-predef.h \
  utility/src/utility/libbacktrace/config.h \
  /usr/include/x86_64-linux-gnu/sys/types.h /usr/include/features.h \

@@ -1,4 +1,4 @@
-/mnt/data6t/EC/result/canu/build/obj/lib/libcanu.a/stores/libsnappy/snappy-stubs-internal.o: \
+/mnt/data6t/EC/EC-Integration/canu/build/obj/lib/libcanu.a/stores/libsnappy/snappy-stubs-internal.o: \
  stores/libsnappy/snappy-stubs-internal.cc /usr/include/stdc-predef.h \
  /usr/include/c++/9/algorithm /usr/include/c++/9/utility \
  /usr/include/x86_64-linux-gnu/c++/9/bits/c++config.h \

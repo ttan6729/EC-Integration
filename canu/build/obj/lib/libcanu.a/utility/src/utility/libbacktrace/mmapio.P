@@ -1,4 +1,4 @@
-/mnt/data6t/EC/result/canu/build/obj/lib/libcanu.a/utility/src/utility/libbacktrace/mmapio.o: \
+/mnt/data6t/EC/EC-Integration/canu/build/obj/lib/libcanu.a/utility/src/utility/libbacktrace/mmapio.o: \
  utility/src/utility/libbacktrace/mmapio.c /usr/include/stdc-predef.h \
  utility/src/utility/libbacktrace/config.h /usr/include/errno.h \
  /usr/include/features.h /usr/include/x86_64-linux-gnu/sys/cdefs.h \

@@ -1,4 +1,4 @@
-/mnt/data6t/EC/result/canu/build/obj/lib/libcanu.a/utility/src/utility/files-buffered.o: \
+/mnt/data6t/EC/EC-Integration/canu/build/obj/lib/libcanu.a/utility/src/utility/files-buffered.o: \
  utility/src/utility/files-buffered.C /usr/include/stdc-predef.h \
  utility/src/utility/files.H utility/src/utility/types.H \
  /usr/include/stdio.h \

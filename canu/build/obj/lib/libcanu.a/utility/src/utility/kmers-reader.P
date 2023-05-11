@@ -1,4 +1,4 @@
-/mnt/data6t/EC/result/canu/build/obj/lib/libcanu.a/utility/src/utility/kmers-reader.o: \
+/mnt/data6t/EC/EC-Integration/canu/build/obj/lib/libcanu.a/utility/src/utility/kmers-reader.o: \
  utility/src/utility/kmers-reader.C /usr/include/stdc-predef.h \
  utility/src/utility/kmers.H utility/src/utility/types.H \
  /usr/include/stdio.h \

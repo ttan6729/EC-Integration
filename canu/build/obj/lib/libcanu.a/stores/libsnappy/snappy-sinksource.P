@@ -1,4 +1,4 @@
-/mnt/data6t/EC/result/canu/build/obj/lib/libcanu.a/stores/libsnappy/snappy-sinksource.o: \
+/mnt/data6t/EC/EC-Integration/canu/build/obj/lib/libcanu.a/stores/libsnappy/snappy-sinksource.o: \
  stores/libsnappy/snappy-sinksource.cc /usr/include/stdc-predef.h \
  /usr/include/string.h \
  /usr/include/x86_64-linux-gnu/bits/libc-header-start.h \

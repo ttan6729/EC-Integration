@@ -1,4 +1,4 @@
-/mnt/data6t/EC/result/canu/build/obj/lib/libcanu.a/correction/falconConsensus.o: \
+/mnt/data6t/EC/EC-Integration/canu/build/obj/lib/libcanu.a/correction/falconConsensus.o: \
  correction/falconConsensus.C /usr/include/stdc-predef.h \
  correction/falconConsensus.H utility/src/utility/runtime.H \
  utility/src/utility/types.H /usr/include/stdio.h \

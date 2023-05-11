@@ -1,4 +1,4 @@
-/mnt/data6t/EC/result/canu/build/obj/lib/libcanu.a/utgcns/libNDalign/NDalgorithm-reverse.o: \
+/mnt/data6t/EC/EC-Integration/canu/build/obj/lib/libcanu.a/utgcns/libNDalign/NDalgorithm-reverse.o: \
  utgcns/libNDalign/NDalgorithm-reverse.C /usr/include/stdc-predef.h \
  utgcns/libNDalign/NDalgorithm.H utility/src/utility/types.H \
  /usr/include/stdio.h \

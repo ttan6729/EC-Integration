@@ -1,4 +1,4 @@
-/mnt/data6t/EC/result/canu/build/obj/bin/findErrors/overlapErrorAdjustment/computeDiff.o: \
+/mnt/data6t/EC/EC-Integration/canu/build/obj/bin/findErrors/overlapErrorAdjustment/computeDiff.o: \
  overlapErrorAdjustment/computeDiff.C /usr/include/stdc-predef.h \
  overlapErrorAdjustment/computeDiff.H /usr/include/c++/9/utility \
  /usr/include/x86_64-linux-gnu/c++/9/bits/c++config.h \

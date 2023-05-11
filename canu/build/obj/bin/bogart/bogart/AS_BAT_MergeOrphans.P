@@ -1,4 +1,4 @@
-/mnt/data6t/EC/result/canu/build/obj/bin/bogart/bogart/AS_BAT_MergeOrphans.o: \
+/mnt/data6t/EC/EC-Integration/canu/build/obj/bin/bogart/bogart/AS_BAT_MergeOrphans.o: \
  bogart/AS_BAT_MergeOrphans.C /usr/include/stdc-predef.h \
  utility/src/utility/system.H utility/src/utility/types.H \
  /usr/include/stdio.h \

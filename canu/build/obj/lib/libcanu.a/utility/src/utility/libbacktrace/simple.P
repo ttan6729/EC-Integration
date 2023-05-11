@@ -1,4 +1,4 @@
-/mnt/data6t/EC/result/canu/build/obj/lib/libcanu.a/utility/src/utility/libbacktrace/simple.o: \
+/mnt/data6t/EC/EC-Integration/canu/build/obj/lib/libcanu.a/utility/src/utility/libbacktrace/simple.o: \
  utility/src/utility/libbacktrace/simple.c /usr/include/stdc-predef.h \
  utility/src/utility/libbacktrace/config.h \
  /usr/lib/gcc/x86_64-linux-gnu/9/include/unwind.h \

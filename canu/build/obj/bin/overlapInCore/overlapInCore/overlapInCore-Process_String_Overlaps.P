@@ -1,4 +1,4 @@
-/mnt/data6t/EC/result/canu/build/obj/bin/overlapInCore/overlapInCore/overlapInCore-Process_String_Overlaps.o: \
+/mnt/data6t/EC/EC-Integration/canu/build/obj/bin/overlapInCore/overlapInCore/overlapInCore-Process_String_Overlaps.o: \
  overlapInCore/overlapInCore-Process_String_Overlaps.C \
  /usr/include/stdc-predef.h /usr/include/c++/9/math.h \
  /usr/include/c++/9/cmath \
